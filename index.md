@@ -27,3 +27,4 @@ Reference
 - [http://karpathy.github.io/neuralnets/](http://karpathy.github.io/neuralnets/)
 - [KAIST 한국어 기계학습 온라인 강의](http://seslab.kaist.ac.kr/xe2/page_GBex27)
 - [파이콘 APAC](https://www.pycon.kr/2016apac/program/list/)
+- [openai](https://openai.com/blog/)
