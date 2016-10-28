@@ -26,3 +26,4 @@ Reference
 - [해커에게 전해들은 머신러닝](http://www.hanbit.co.kr/store/education/edu_view.html?p_code=S4788493436)
 - [http://karpathy.github.io/neuralnets/](http://karpathy.github.io/neuralnets/)
 - [KAIST 한국어 기계학습 온라인 강의](http://seslab.kaist.ac.kr/xe2/page_GBex27)
+- [파이콘 APAC](https://www.pycon.kr/2016apac/program/list/)
